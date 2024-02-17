@@ -3,7 +3,7 @@
 
 <!--INSERT PICTURE REPRESENTATIVE OF PROJECT-->
 <div align="center">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Khns8mi5ov-qN64yFABHmAHaE7%26pid%3DApi&f=1"></img>
+<img src="DM_logo.png"></img>
 </div>
 <p align="center">
 <a href="https://github.com/CogitoNTNU/README-template/blob/main/LICENSE" alt="LICENSE">
