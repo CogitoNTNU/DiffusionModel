@@ -14,7 +14,7 @@
 <a href="" alt="version">
         <img src="https://img.shields.io/badge/version-0.0.1-blue"></img></a>
 </p>
-<h3 align="center">README-template</h3>
+<h3 align="center">Diffusion Model</h3>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
