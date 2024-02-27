@@ -68,6 +68,7 @@ Right to left: [@example](https://github.com/Jonrodtang)    [@example](https://g
 - [Thomas Haslund Wik](https://github.com/ThomasHWik)
 -  [Examplette examplesen](https://github.com/Jonrodtang)
 - [Mauritz Skogøy](https://github.com/Mauritzskog)
+- [Amanda Truyen](https://github.com/amandathunes)
 
 ### License
 ------
