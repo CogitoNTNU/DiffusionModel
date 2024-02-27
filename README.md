@@ -66,7 +66,6 @@ Right to left: [@amandathunes](https://github.com/amandathunes)    [@example](ht
 
 #### Team members:
 - [Thomas Haslund Wik](https://github.com/ThomasHWik)
-- [Examplette examplesen](https://github.com/Jonrodtang)
 - [Baris Batur](https://github.com/BarisBatur)
 - [Mauritz Skogøy](https://github.com/Mauritzskog)
 - [Amanda Truyen](https://github.com/amandathunes)
