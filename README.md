@@ -67,7 +67,7 @@ Right to left: [@example](https://github.com/Jonrodtang)    [@example](https://g
 #### Team members:
 - [Example exampleson](https://github.com/Jonrodtang)
 -  [Examplette examplesen](https://github.com/Jonrodtang)
-- [Examplar examples](https://github.com/Jonrodtang)
+- [Mauritz Skogøy](https://github.com/Mauritzskog)
 
 ### License
 ------
