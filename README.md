@@ -65,7 +65,7 @@ Right to left: [@amandathunes](https://github.com/amandathunes)    [@example](ht
 - [Marijan Soric](https://github.com/soricm)
 
 #### Team members:
-# - [Examplette examplesen](https://github.com/Jonrodtang)
+- [Examplette examplesen](https://github.com/Jonrodtang)
 - [Thomas Haslund Wik](https://github.com/ThomasHWik)
 - [Mauritz Skogøy](https://github.com/Mauritzskog)
 - [Amanda Truyen](https://github.com/amandathunes)
