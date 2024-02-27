@@ -60,7 +60,7 @@ In this section you describe how to use the program to obtain the desired result
 <img src="https://cogito-ntnu.no/static/img/projects/erpokerpfpwekwpkerwer.png"></img>
 </div>
 
-Right to left: [@example](https://github.com/Jonrodtang)    [@example](https://github.com/Jonrodtang)    [@example](https://github.com/Jonrodtang)    [@example](https://github.com/Jonrodtang)  
+Right to left: [@amandathunes](https://github.com/amandathunes)    [@example](https://github.com/Jonrodtang)    [@example](https://github.com/Jonrodtang)    [@example](https://github.com/Jonrodtang)  
 #### Leader(s):
 - [Marijan Soric](https://github.com/soricm)
 
