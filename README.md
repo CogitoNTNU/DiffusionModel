@@ -65,7 +65,7 @@ Right to left: [@example](https://github.com/Jonrodtang)    [@example](https://g
 - [Marijan Soric](https://github.com/soricm)
 
 #### Team members:
-- [Example exampleson](https://github.com/Jonrodtang)
+- [Thomas Haslund Wik](https://github.com/ThomasHWik)
 -  [Examplette examplesen](https://github.com/Jonrodtang)
 - [Mauritz Skogøy](https://github.com/Mauritzskog)
 
