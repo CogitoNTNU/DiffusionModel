@@ -1,0 +1,5 @@
+torch==2.2.1
+torchvision==0.17.1
+streamlit==1.33.0
+numpy
+tqdm
