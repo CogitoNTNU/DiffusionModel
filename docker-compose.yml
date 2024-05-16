@@ -1,0 +1,12 @@
+version: '3.9'
+
+services:
+  backend:
+    build:
+      context: ./diffusion-model-app
+    container_name: backend
+    command: streamlit run app.py 
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8501:8501"
