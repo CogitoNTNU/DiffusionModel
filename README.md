@@ -52,6 +52,7 @@ cd DiffusionModel
 ```bash
 docker compose up --build
 ```
+Then navigate to `http://localhost:8501` in your browser to access the UI of the frontend.
 Done! You are now ready to generate cars!
 
 ## Team
