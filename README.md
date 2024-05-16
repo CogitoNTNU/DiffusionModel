@@ -4,7 +4,7 @@
 
 <!--INSERT PICTURE REPRESENTATIVE OF PROJECT-->
 <div align="center">
-<img src="DM_logo.png"></img>
+<img src="docs/images/DM_logo.png" width="30%"></img>
 </div>
 <p align="center">
 <a href="https://github.com/CogitoNTNU/README-template/blob/main/LICENSE" alt="LICENSE">
@@ -13,7 +13,7 @@
 <a href="" alt="platform">
         <img src="https://img.shields.io/badge/platform-linux%7Cwindows%7CmacOS-lightgrey"></img></a>
 <a href="" alt="version">
-        <img src="https://img.shields.io/badge/version-0.0.1-blue"></img></a>
+        <img src="https://img.shields.io/badge/version-1.0.0-blue"></img></a>
 </p>
 <h3 align="center">Diffusion Model</h3>
 <!-- TABLE OF CONTENTS -->
@@ -34,12 +34,10 @@
 </details>
 
 ## Description 
------
 The aim of this project is to create our own Deep Learning model that **generates brand new car images**. We develop our home-made unconditional image generation model based on the paper [*Denoising Diffusion Probabilistic Models*](https://arxiv.org/abs/2006.11239) from *Jonathan Ho, Ajay Jain, Pieter Abbeel* in 2020. We followed the structure of the article and implemented main function to recreate an unconditional image generator, based on the diffusion process.
 
 
 ## Quick Start
-
 ### Prerequisites
 - Ensure that git is installed on your machine. [Download Git](https://git-scm.com/downloads)
 - Docker is used for the backend and database setup. [Download Docker](https://www.docker.com/products/docker-desktop)
@@ -50,15 +48,14 @@ The aim of this project is to create our own Deep Learning model that **generate
 git clone https://github.com/CogitoNTNU/DiffusionModel.git
 cd DiffusionModel
 ```
-Done! You are now ready to generate cars!
-
 
 ## Usage
-------
-In this section you describe how to use the program to obtain the desired result.  
+```bash
+docker compose up --build
+```
+Done! You are now ready to generate cars!
 
 ## Team
-------
 The team behind this project is a group of students at NTNU in Trondheim, Norway, developed during the spring semester of 2024. 
 
 <table align="center">
@@ -96,21 +93,15 @@ The team behind this project is a group of students at NTNU in Trondheim, Norway
   </tr>
 </table>
 
-This project would not have been possible without the hard work and dedication of all of the contributors. Thank you for the time and effort you have put into making TutorAI a reality.
+This project would not have been possible without the hard work and dedication of all of the contributors. Thank you for the time and effort you have put into making DiffusionModel a reality.
 
 <div align="center">
     <img src="docs/images/cogito-team.jpg" width="70%" alt="Cogito Team Image" style="display: block; margin-left: auto; margin-right: auto;">
-
+</div>
 
 Right to left: [@BarisBatur](https://github.com/BarisBatur), [@soricm](https://github.com/soricm) *(Team leader)*, [@amandathunes](https://github.com/amandathunes), [@Mauritzskog](https://github.com/Mauritzskog).
 *([@ThomasHWik](https://github.com/ThomasHWik) isn't in the picture day)*
 
-### License
-------
+
+## License
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-### Credits
-------
-Template by [@JonRodtang](https://github.com/Jonrodtang) for  [@CogitoNTNU](https://github.com/CogitoNTNU)  <p align="right">(<a href="#top">back to top</a>)</p>
