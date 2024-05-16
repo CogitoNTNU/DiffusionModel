@@ -15,8 +15,7 @@
 <a href="" alt="version">
         <img src="https://img.shields.io/badge/version-1.0.0-blue"></img></a>
 </p>
-<h3 align="center">Diffusion Model</h3>
-<!-- TABLE OF CONTENTS -->
+
 
 <details> 
 <summary><b>📋 Table of contents </b></summary>
@@ -26,7 +25,7 @@
   - [Quick Start](#quick-start)
     - [Prerequisites](#prerequisites)
     - [Clone the repository](#clone-the-repository)
-    - [Usage](#usage)
+  - [Usage](#usage)
   - [Team](#team)
   - [License](#license)
     
@@ -100,7 +99,7 @@ This project would not have been possible without the hard work and dedication o
 </div>
 
 Right to left: [@BarisBatur](https://github.com/BarisBatur), [@soricm](https://github.com/soricm) *(Team leader)*, [@amandathunes](https://github.com/amandathunes), [@Mauritzskog](https://github.com/Mauritzskog).
-*([@ThomasHWik](https://github.com/ThomasHWik) isn't in the picture day)*
+*([@ThomasHWik](https://github.com/ThomasHWik) isn't in the picture)*
 
 
 ## License
