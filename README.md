@@ -57,11 +57,12 @@ In this section you describe how to use the program to obtain the desired result
 ------
 <!--INSERT PICTURE OF TEAM-->
 <div align="center">
-<img src="https://cogito-ntnu.no/static/img/projects/erpokerpfpwekwpkerwer.png"></img>
+<img src="docs/images/cogito-team.jpg"></img>
 </div>
 
-Right to left: [@amandathunes](https://github.com/amandathunes)    [@example](https://github.com/Jonrodtang)    [@example](https://github.com/Jonrodtang)    [@example](https://github.com/Jonrodtang)  
-#### Leader(s):
+Right to left: [@BarisBatur](https://github.com/BarisBatur), [@soricm](https://github.com/soricm), [@amandathunes](https://github.com/amandathunes), [@Mauritzskog](https://github.com/Mauritzskog) *([@ThomasHWik](https://github.com/ThomasHWik) isn't in the picture day)*
+
+#### Leader:
 - [Marijan Soric](https://github.com/soricm)
 
 #### Team members:
