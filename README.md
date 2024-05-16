@@ -17,23 +17,20 @@
 </p>
 <h3 align="center">Diffusion Model</h3>
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about">About</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-   <li><a href="#team">Team</a></li>
-    <li><a href="#license">License</a></li>
-  </ol>
+
+<details> 
+<summary><b>📋 Table of contents </b></summary>
+
+- [Diffusion Model](#diffusion-model)
+  - [Description](#description)
+  - [Quick Start](#quick-start)
+    - [Prerequisites](#prerequisites)
+    - [Clone the repository](#clone-the-repository)
+    - [Usage](#usage)
+  - [Team](#team)
+  - [License](#license)
+    
+
 </details>
 
 ## Description 
