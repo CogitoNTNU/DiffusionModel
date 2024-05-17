@@ -4,7 +4,7 @@
 
 <!--INSERT PICTURE REPRESENTATIVE OF PROJECT-->
 <div align="center">
-<img src="docs/images/DM_logo.png" width="30%"></img>
+<img src="docs/images/DiffusionModelGIF.gif" width="30%"></img>
 </div>
 <p align="center">
 <a href="https://github.com/CogitoNTNU/README-template/blob/main/LICENSE" alt="LICENSE">
