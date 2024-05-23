@@ -99,7 +99,7 @@ This project would not have been possible without the hard work and dedication o
     <img src="docs/images/cogito-team.jpg" width="70%" alt="Cogito Team Image" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
-Right to left: [@BarisBatur](https://github.com/BarisBatur), [@soricm](https://github.com/soricm) *(Team leader)*, [@amandathunes](https://github.com/amandathunes), [@Mauritzskog](https://github.com/Mauritzskog).
+Left to right: [@BarisBatur](https://github.com/BarisBatur), [@soricm](https://github.com/soricm) *(Team leader)*, [@amandathunes](https://github.com/amandathunes), [@Mauritzskog](https://github.com/Mauritzskog).
 *([@ThomasHWik](https://github.com/ThomasHWik) isn't in the picture)*
 
 
